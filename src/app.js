@@ -1,5 +1,4 @@
 import express from 'express'
-import livros from './models/Livro.js'
 import db from './Config/dbConnect.js'
 import routes from './Routes/index.js'
 
